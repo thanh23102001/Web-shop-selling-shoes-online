@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ShoeStore2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
